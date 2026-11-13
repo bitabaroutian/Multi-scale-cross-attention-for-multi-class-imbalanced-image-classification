@@ -7,7 +7,5 @@ PyTorch reimplementation of **Positive and Negative Multi-Scale Cross-Attention 
 
 All code lives in **`PNMSCA.ipynb`**
 
-## Run (Google Colab)
+## Implementation was fully done through Google Colab 
 
-1. Upload `PNMSCA.ipynb` to Colab (or open from Drive).
-2. **Runtime → Change runtime type → GPU (T4)**.
